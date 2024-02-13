@@ -58,22 +58,6 @@ function App() {
         <Modal closeModal={closeModal} />
       )}
 
-
-      <form className=''>
-        <div className=''>
-          <input type="text" placeholder='Your Name' required />
-        </div>
-        <div className=''>
-          <input type="email" placeholder='Email Adress' required />
-        </div>
-        <div className=''>
-          <textarea type="text" rows={5} placeholder='Message' required />
-        </div>
-
-        <button className=''>
-          Send
-        </button>
-      </form>
     </div>
   );
 }
