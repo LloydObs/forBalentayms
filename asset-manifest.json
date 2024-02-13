@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/forBalentayms/static/css/main.b7e107f7.css",
+    "main.js": "/forBalentayms/static/js/main.d27a58f8.js",
+    "static/js/592.e2d16320.chunk.js": "/forBalentayms/static/js/592.e2d16320.chunk.js",
+    "index.html": "/forBalentayms/index.html",
+    "main.b7e107f7.css.map": "/forBalentayms/static/css/main.b7e107f7.css.map",
+    "main.d27a58f8.js.map": "/forBalentayms/static/js/main.d27a58f8.js.map",
+    "592.e2d16320.chunk.js.map": "/forBalentayms/static/js/592.e2d16320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e107f7.css",
+    "static/js/main.d27a58f8.js"
+  ]
+}
